@@ -9,10 +9,6 @@
 ### I worked on and calculated all the tasks by running this code that can be found by clicking below:
 
 >>>>**[Davit_Cuedari_HW](PyBank/main.ipynb)**
-<<<<<<< HEAD
-=======
-
->>>>>>> 17f9e2040a9706bbb89470489193d55c7fffc549
 
 *My task was to create a Python script that analyzes the records to calculate each of the following:*
 
