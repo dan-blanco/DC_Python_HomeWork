@@ -8,7 +8,7 @@
 
 ### I worked on and calculated all the tasks by running this code that can be found by clicking below:
 
->>>>**[Davit_Cuedari_HW](../DC_Python_HomeWork/PyBank/main.ipynb)**
+>>>>**[Davit_Cuedari_HW](PyBank/main.ipynb)**
 
 *My task was to create a Python script that analyzes the records to calculate each of the following:*
 
