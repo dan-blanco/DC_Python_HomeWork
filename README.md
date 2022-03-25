@@ -6,7 +6,7 @@
 
 >>>>***[budget_csv_data](PyBank/Resources/budget_data.csv)***
 
-### I have done all the calculations by running this code that can be found by clicking below:
+### I worked on and calculated all the tasks by running this code that can be found by clicking below:
 
 >>>>**[Davit_Cuedari_HW](PyBank/main.ipynb)**
 
